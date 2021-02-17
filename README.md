@@ -1,14 +1,18 @@
 PANDA CROSSING
 ==============
 
-Este juego consiste en un panda que tiene que ir atravesando diferentes
-obstáculos y al llegar a 100 puntos gana el juego, puede decidir si
-quiere seguir jugando o salir del juego. Para superar los obstáculos hay
-que ir presionando la flecha de arriba y así evitar tocar los palos de
-bambú.
+Este juego consiste en un panda que tiene que ir atravesando obstáculos a medida que va avanzando, para esto el panda salta al hacer uso de la tecla de flecha hacia arriba.
+Al llegar a 50 puntos el juego comienza a dificultarse y los palos de bambú comienzan a moverse, al llegar a 100 el juego será completado y habrás ganado, puedes escoger si deseas seguir jugando o quieres salir.
 
 * * * * *
+![](./Captura1.png)
+###### Inicio del juego\*
 
-![](./Captura.png)
+![](./Captura2.png)
+###### Instrucciones del juego\*
 
-###### Imagen del juego en Processing 3\*
+![](./Captura3.png)
+###### Imagen del juego corriendo en Processing 3\*
+
+![](./Captura4.png)
+###### Créditos\*
