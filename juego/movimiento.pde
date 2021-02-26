@@ -6,6 +6,10 @@ void inicio(){
  fill(255);
  rect(300, 500, 100, 50);
  rect(450, 500, 100, 50);
+ fill(0);
+ textSize(20);
+ text("jugar", 350, 530);
+ text("créditos", 500, 530);
  if(juegoo == 0 && mousePressed && mouseX > 300 && mouseX < 400 && mouseY > 500 && mouseY < 550){
   juegoo=1;
  }
@@ -50,6 +54,9 @@ if(juegoo==1){
    image(creditos,0,0);
    fill(255);
    rect(100, 700, 100, 50);
+   fill(0);
+   textSize(20);
+   text("inicio", 130, 720);
    if(juegoo==2 && mousePressed && mouseX > 100 && mouseX < 200 && mouseY > 700 && mouseY < 750){
      juegoo=0;
    }
