@@ -4,6 +4,8 @@ PANDA CROSSING
 Panda crossing es un videojuego que consiste en un panda el cual debe atravesar un bosque para llegar a su alimento al estilo de Flappy Bird.
 Para esto el jugador debe utilizar la flecha arriba haciendo que el panda salte y atraviese los obstáculos, si llega a chocar con un obstáculo el juego terminará.
 
+*Para este programa debe instalarse la librería "Minim"
+
 ![](./portada.png)
 
 ## Autores
