@@ -13,6 +13,9 @@ Jeremy Santiago Poveda Mendoza
 
 Liliam Daniela Rodríguez Morales
 
+## Gameplay
+https://youtu.be/s8ZWesHgH9k
+
 ## Instrucciones
 ![](./instrucciones.png)
 
