@@ -31,7 +31,12 @@ void muerte(){
         dead=0;
         score=0;
       }
-      image(pandacrossing,width/2,200,800,200);           
+      image(pandacrossing,width/2,200,800,200);  
+      fill(255);
+      rect(width/2,600,100,50);
+      if(mousePressed && mouseX > (width/2)-50 && mouseX < (width/2)+50 && mouseY > 600 && mouseY < 650){
+       exit(); 
+      }
     }
   }  
 }
