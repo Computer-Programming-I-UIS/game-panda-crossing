@@ -1,18 +1,30 @@
 PANDA CROSSING
 ==============
 
-Este juego consiste en un panda que tiene que ir atravesando obstáculos a medida que va avanzando, para esto el panda salta al hacer uso de la tecla de flecha hacia arriba.
-Al llegar a 50 puntos el juego comienza a dificultarse y los palos de bambú comienzan a moverse, al llegar a 100 el juego será completado y habrás ganado, puedes escoger si deseas seguir jugando o quieres salir.
+Panda crossing es un videojuego que consiste en un panda el cual debe atravesar un bosque para llegar a su alimento al estilo de Flappy Bird.
+Para esto el jugador debe utilizar la flecha haciendo que el panda salte y atraviese los obstáculos, si llega a chocar con un obstáculo el juego terminará.
 
-* * * * *
-![](./Captura1.png)
-###### Inicio del juego\*
+![](./portada.png)
 
-![](./Captura2.png)
-###### Instrucciones del juego\*
+## Autores
+Jeremy Santiago Poveda Mendoza
+Liliam Daniela Rodríguez Morales
 
-![](./Captura3.png)
-###### Imagen del juego corriendo en Processing 3\*
+## Instrucciones
+![](./instrucciones.png)
 
-![](./Captura4.png)
-###### Créditos\*
+## Clasificación
+![](./clasificacion.png)
+
+## Créditos
+Programación y diseño:
+Jeremy Poveda y Liliam Rodríguez
+
+Música:
+La música es extraída de la banda sonora del juego Final Fantasy VII: “The gret warrior”.
+
+Inspiración:
+Juego inspirado en el juego Flappy Bird que comparte sus mismas mecánicas y jugabilidad.
+
+Agradecimientos:
+Cristian Sierra y Dayana Navarro por su apoyo, consejos y pruebas en la realización del juego.
